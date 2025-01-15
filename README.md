@@ -1,2 +1,2 @@
 # ToDoList
-formulário de busca que, enquanto o usuário digita, exibe sugestões automáticas baseadas nas palavras-chave que ele já digitou.
+Lista de tarefas simples onde o usuário pode adicionar, remover e marcar as tarefas como concluídas. Use armazenamento local para salvar a lista.
