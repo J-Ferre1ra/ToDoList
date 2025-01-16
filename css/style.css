@@ -1,8 +1,35 @@
 body{
-    background-color: #9a95ff;
+    background-color: #ECEBFF;
+}
+.container-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 25px;
 }
 h1{
     font-family: Alexandria;
     font-weight: 600;
     font-size: 43px;
+}
+label{
+    font-size: 20px;
+    font-family: Alexandria;
+}
+input{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #ECEBFF;
+    height: 22px;
+}
+button{
+    font-family: Alexandria;
+    font-weight: 400;
+    font-size: 15px;
+    border: 1px solid #87fc6d;
+    border-radius: 5px;
+    height: 33px;
+    width: 100px;
+    background-color: #87fc6d;
 }
