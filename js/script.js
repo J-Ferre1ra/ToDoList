@@ -19,6 +19,7 @@ function addingTask(){
         let liTask = document.createElement('li')
 
         let nameTask = document.createElement('span')
+        nameTask.id = 'nameTask'
         nameTask.textContent = inputText.value
 
         let iconTaskCompleted = document.createElement('img')
