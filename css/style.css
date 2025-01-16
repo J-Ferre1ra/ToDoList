@@ -1,5 +1,9 @@
 body{
     background-color: #ECEBFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 .container-main{
     display: flex;
@@ -32,4 +36,17 @@ button{
     height: 33px;
     width: 100px;
     background-color: #87fc6d;
+    cursor: pointer;
+}
+#img-task-remove, #img-task-completed{
+    height: 40px;
+}
+#nameTask{
+    font-family: Alexandria;
+    font-size: 20px;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
 }
