@@ -23,7 +23,7 @@ Lista de tarefas simples onde o usuário pode adicionar, remover e marcar as tar
    ```bash
    git clone https://github.com/J-Ferre1ra/ToDoList.git
 ## **💡 O que eu aprendi**
--  Pratiquei DOM
+-  DOM mais avançado
 
 ---
 
